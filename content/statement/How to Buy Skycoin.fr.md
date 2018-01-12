@@ -1,5 +1,5 @@
 +++
-title = "How to Buy Skycoin"
+title = "Comment acheter du Skycoin"
 tags = [
     "Statement",
 ]
@@ -9,9 +9,25 @@ categories = [
 ]
 +++
 
-## Intructive Guide on How to Purchase Skycoin
+## Guide pratique pour acheter du Skycoin
 
-We have received a lot of messages asking for explicit directions on how to purchase Skycoin, so we are making this blog post to outline the process. There are currently three ways to purchase Skycoin. You can purchase on the exchanges C2CX, Cryptopia, or Over-The-Counter.
-The Over-The-Counter Exchange is currently sold out, so you can purchase Skycoin on https://www.c2cx.com/in/home or https://www.cryptopia.co.nz/. To purchase on these two exchanges, you will need to buy Bitcoin. You can purchase Bitcoin at https://www.coinbase.com/, https://gemini.com/, https://www.bitstamp.net/, or other verified exchanges. 
+Nous avons reçu beaucoup de messages demandant des instructions détaillées sur la façon d'acheter du Skycoin, nous publions donc cet article pour décrire le processus. 
+Il existe actuellement trois façons d'acheter du Skycoin. Vous pouvez en acheter sur les échanges C2CX, Cryptopia ou Over-The-Counter.
 
-After you purchase Bitcoin, you will need to transfer your Bitcoin to Cryptopia or C2CX to purchase Skycoin. To do this, you will need to first make an account on either of these exchanges. After making your account, you will need to copy the Bitcoin address from your C2CX or Cryptopia balances tab. This is the address you will send Bitcoin to. Now, go to the original exchange where you purchased Bitcoin, i.e. Coinbase, Gemini, or Bitstamp, and access the send function from your Bitcoin wallet. You will copy and paste the Cryptopia or C2CX address into the send page of the original exchange. After you do this, you should be able to send and confirm the transaction. If you want to view your transaction, you can do so at https://blockchain.info/ by looking up the associated public addresses that you used. Now, you will have to wait for the Bitcoin to arrive at your address at C2CX or Cryptopia. This time can vary from minutes to hours depending on how clogged the Bitcoin blockchain is. After it arrives, you will be able to purchase Skycoin on the exchange. To do so, you will need to access the SKY tab of the exchange page and place an order to bid at a certain price, or match a corresponding sell order on the exchange. If you have further questions you can contact the Skycoin team at t.me/Skycoin or contact@Skycoin.net.
+L'échange Over-The-Counter est actuellement complet, donc vous pouvez acheter du Skycoin sur https://www.c2cx.com/in/home ou https://www.cryptopia.co.nz/. 
+Pour acheter sur ces deux échanges, vous devrez acheter du Bitcoin. 
+Vous pouvez acheter du Bitcoin sur https://www.coinbase.com/, https://gemini.com/, https://www.bitstamp.net/, ou d'autres échanges certifiés.
+
+Après avoir acheté Bitcoin, vous devrez transférer votre Bitcoin vers Cryptopia ou C2CX pour acheter du Skycoin. 
+Pour ce faire, vous devrez d'abord créer un compte sur l'un ou l'autre de ces échanges. 
+Après avoir créé votre compte, vous devrez copier l'adresse Bitcoin depuis votre onglet Soldes C2CX ou Cryptopia. 
+C'est l'adresse à laquelle vous enverrez du Bitcoin. 
+Maintenant, allez à l'échange d'origine où vous avez acheté du Bitcoin, c'est-à-dire Coinbase, Gemini ou Bitstamp, et accédez à la fonction d'envoi à partir de votre portefeuille Bitcoin.
+Vous copiez et collez l'adresse Cryptopia ou C2CX depuis la page d'envoi de l'échange d'origine. 
+Après cela, vous devriez être en mesure d'envoyer et de confirmer la transaction. 
+Si vous souhaitez voir votre transaction, vous pouvez le faire sur https://blockchain.info/ en recherchant les adresses publiques associées que vous avez utilisé. 
+Maintenant, vous devrez attendre que le Bitcoin arrive à votre adresse à C2CX ou à Cryptopia. 
+Cette durée peut varier de quelques minutes à quelques heures en fonction du degré d’encombrement de la blockchain Bitcoin. Après son arrivée, vous serez en mesure d'acheter du Skycoin sur l'échange. 
+Pour ce faire, vous devrez accéder à l'onglet SKY de la page d'échange et placer un ordre pour enchérir à un certain prix, ou correspondre à un ordre de vente similaire sur l’échange.
+
+Si vous avez d'autres questions, vous pouvez contacter l'équipe Skycoin à l'adresse t.me/Skycoin ou contact@Skycoin.net.
