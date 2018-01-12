@@ -28,6 +28,6 @@ Après cela, vous devriez être en mesure d'envoyer et de confirmer la transacti
 Si vous souhaitez voir votre transaction, vous pouvez le faire sur https://blockchain.info/ en recherchant les adresses publiques associées que vous avez utilisé. 
 Maintenant, vous devrez attendre que le Bitcoin arrive à votre adresse à C2CX ou à Cryptopia. 
 Cette durée peut varier de quelques minutes à quelques heures en fonction du degré d’encombrement de la blockchain Bitcoin. Après son arrivée, vous serez en mesure d'acheter du Skycoin sur l'échange. 
-Pour ce faire, vous devrez accéder à l'onglet SKY de la page d'échange et placer un ordre pour enchérir à un certain prix, ou correspondre à un ordre de vente similaire sur l’échange.
+Pour ce faire, vous devrez accéder à l'onglet SKY de la page d'échange et placer un ordre pour enchérir à un certain prix, ou correspondant à un ordre de vente similaire sur l’échange.
 
 Si vous avez d'autres questions, vous pouvez contacter l'équipe Skycoin à l'adresse t.me/Skycoin ou contact@Skycoin.net.
