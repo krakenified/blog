@@ -18,7 +18,7 @@ L'échange Over-The-Counter est actuellement complet, donc vous pouvez acheter d
 Pour acheter sur ces deux échanges, vous devrez acheter du Bitcoin. 
 Vous pouvez acheter du Bitcoin sur https://www.coinbase.com/, https://gemini.com/, https://www.bitstamp.net/, ou d'autres échanges certifiés.
 
-Après avoir acheté Bitcoin, vous devrez transférer votre Bitcoin vers Cryptopia ou C2CX pour acheter du Skycoin. 
+Après avoir acheté du Bitcoin, vous devrez transférer votre Bitcoin vers Cryptopia ou C2CX pour acheter du Skycoin. 
 Pour ce faire, vous devrez d'abord créer un compte sur l'un ou l'autre de ces échanges. 
 Après avoir créé votre compte, vous devrez copier l'adresse Bitcoin depuis votre onglet Soldes C2CX ou Cryptopia. 
 C'est l'adresse à laquelle vous enverrez du Bitcoin. 
